@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tweets-Counter/static/css/main.496a5ff0.chunk.css",
+    "main.js": "/Tweets-Counter/static/js/main.22d34465.chunk.js",
+    "main.js.map": "/Tweets-Counter/static/js/main.22d34465.chunk.js.map",
+    "runtime-main.js": "/Tweets-Counter/static/js/runtime-main.1cf3f469.js",
+    "runtime-main.js.map": "/Tweets-Counter/static/js/runtime-main.1cf3f469.js.map",
+    "static/js/2.3504e67e.chunk.js": "/Tweets-Counter/static/js/2.3504e67e.chunk.js",
+    "static/js/2.3504e67e.chunk.js.map": "/Tweets-Counter/static/js/2.3504e67e.chunk.js.map",
+    "index.html": "/Tweets-Counter/index.html",
+    "static/css/main.496a5ff0.chunk.css.map": "/Tweets-Counter/static/css/main.496a5ff0.chunk.css.map",
+    "static/js/2.3504e67e.chunk.js.LICENSE.txt": "/Tweets-Counter/static/js/2.3504e67e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cf3f469.js",
+    "static/js/2.3504e67e.chunk.js",
+    "static/css/main.496a5ff0.chunk.css",
+    "static/js/main.22d34465.chunk.js"
+  ]
+}
